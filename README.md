@@ -22,4 +22,23 @@
 -	wrapper methods - Eduardo
 -	embedded methods  - Eduardo
 
-![image](https://github.com/user-attachments/assets/02e45994-2eee-4325-9ad2-4e23b5c1ee18)
+Project handout:
+
+1. Import the dataset and explore the data (3 points)
+Check data contents, provide descriptive statistics and check for incoherencies in the
+data.
+Explore data visually and extract relevant insights. Explain your rationale and
+findings. Do not forget to analyse multivariate relationships.
+2. Clean and pre-process the dataset (5 points)
+Are there any missing values? Take action to handle them.
+Check the dataset for outliers and pre-process them. Justify your decisions.
+Deal with categorical variables.
+Review current features and create extra features if needed. Explain your steps.
+Perform data scaling. Explain the reasoning behind your choices.
+3. Feature selection (3 points)
+Define and implement an unambiguous strategy for feature selection. Use methods
+discussed in the course. Present and justify your final selection.
+4. Build a simple model and assess the performance (4 points)
+Identify the type of the problem and select the relevant algorithms.
+Use cross-validation to assess performance. Which metrics did you use and why?
+Train at 
