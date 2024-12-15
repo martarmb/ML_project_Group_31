@@ -2,6 +2,7 @@
 
 ## TO GRANT OR NOT TO GRANT: DECIDING ON COMPENSATION BENEFITS
 The New York Workers’ Compensation Board (WCB) oversees and regulates benefits for workers' compensation, disability, and various volunteer services, ensuring proper handling of workplace injury claims. Since 2000, the WCB has processed over 5 million claims. To simplify operations and improve efficiency, the WCB aims to develop a predictive model that automates decision-making whenever a new claim is received.
+#### *For more information please consult the Project Guidelines
 
 ## Datasets
 - train_data
@@ -12,8 +13,6 @@ The New York Workers’ Compensation Board (WCB) oversees and regulates benefits
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The project is divided into two Jupyter Notebooks. The first one contains data preprocessing and concludes with saving the datasets in CSV file format, while the second one focuses on model testing.
-
-#### *For more information please consult the Project Guidelines
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Main Lecturer:
 Roberto Henriques
