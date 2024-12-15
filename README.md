@@ -11,11 +11,11 @@ The New York Workers’ Compensation Board (WCB) oversees and regulates benefits
   
 #### https://www.dropbox.com/scl/fo/nnpbrnueqt0t1qq43d2jn/AHjGSP9O3CdVlN2ah5TWOIg?rlkey=ovs7zbkqlno4c8h0jifrfdk6b&st=nnbm76op&dl=0
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### The project is divided into two Jupyter Notebooks. The first one contains data preprocessing and concludes with saving the datasets in CSV file format, while the second one focuses on model testing.
+#### The project is divided into two Jupyter Notebooks. The first one contains data preprocessing and concludes with saving the datasets in CSV file format (Group_31_NOTEBOOK), while the second one focuses on model testing (Group_31_part2_modeling).
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Main Lecturer:
 
