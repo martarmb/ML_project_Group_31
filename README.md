@@ -12,3 +12,10 @@ https://www.dropbox.com/scl/fo/nnpbrnueqt0t1qq43d2jn/AHjGSP9O3CdVlN2ah5TWOIg?rlk
 
 For more information please consult the Project Guidelines
 
+Main Lecturer:
+Roberto Henriques
+
+Assistant Professors:
+Ricardo Santos
+Leon Debatin
+
