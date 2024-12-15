@@ -16,10 +16,14 @@ The New York Workers’ Compensation Board (WCB) oversees and regulates benefits
 #### The project is divided into two Jupyter Notebooks. The first one contains data preprocessing and concludes with saving the datasets in CSV file format, while the second one focuses on model testing.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Main Lecturer:
+
 Roberto Henriques
 
 Assistant Professors:
+
 Ricardo Santos
+
 Leon Debatin
 
