@@ -17,13 +17,13 @@ The New York Workers’ Compensation Board (WCB) oversees and regulates benefits
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Main Lecturer:
+#### Main Lecturer:
 
-Roberto Henriques
+##### Roberto Henriques
 
-Assistant Professors:
+#### Assistant Professors:
 
-Ricardo Santos
+##### Ricardo Santos
 
-Leon Debatin
+##### Leon Debatin
 
