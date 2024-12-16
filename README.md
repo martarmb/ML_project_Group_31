@@ -13,8 +13,8 @@ The New York Workers’ Compensation Board (WCB) oversees and regulates benefits
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### The project is divided into two Jupyter Notebooks. The first one contains data preprocessing and concludes with saving the datasets in CSV file format (Group_31_NOTEBOOK), while the second one focuses on model testing (Group_31_part2_modeling).
-#### In addition to the main project, there is a separate Jupyter Notebook dedicated to preprocessing the "Agreement Reached" variable (Preprocessing for Agreement Reached), as well as another Jupyter Notebook focused on testing models for this variable (Agreement Reached Predictions).
+#### The project is divided into two Jupyter Notebooks. The first one contains data preprocessing and concludes with saving the datasets in CSV file format (Group_31_NOTEBOOK.ipynb), while the second one focuses on model testing (Group_31_part2_modeling.ipynb).
+#### In addition to the main project, there is a separate Jupyter Notebook dedicated to preprocessing the "Agreement Reached" variable (Preprocessing for Agreement Reached.ipynb), as well as another Jupyter Notebook focused on testing models for this variable (Agreement Reached Predictions.ipynb).
 #### Three PDFs have been included in the repository to show the outputs of the undersampling, oversampling, and regular datasets. They are names as following: OversamplingOutput.pdf, UndersamplingOutput.pdf, and RegularOutput.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
